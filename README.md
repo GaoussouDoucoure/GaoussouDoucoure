@@ -10,18 +10,17 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ## 🛠 Technologies & Tools  
 ### My expertise and interests include:  
 - **Languages:** Java, Python, HTML, CSS, JavaScript  
-- **Frameworks & Libraries:**   **Bootstrap**
-- **Tools:** Git, VS Code, IntelliJ, Jupyter Notebook
-- **Data & Visualization:** **Tableau, Power BI, Excel**
+- **Frameworks & Libraries:** Boostrap, Spring Boot
+- **Tools:** Git, Atom, VS Code, IntelliJ, Jupyter Notebook
+- **Data & Visualization:** Tableau, Power BI, Excel
 - **Database:** MySQL  
 
 ## 📌 Featured Projects  
 Check out some of my key repositories:  
 - **[AccountingLedgerApp](#)** – A project focused on financial tracking and reporting.  
-- **[VirtualWorld](#)** – An engaging simulation program exploring dynamic interactions.  
-- **[JavaWeek1](#)** – A collection of beginner Java exercises.  
-- **[Jupyter Notebook Experiments](#)** – Various interactive notebooks for data analysis and visualization.  
-- **[Python Projects](#)** – A repository showcasing Python-based experiments and applications.  
+
+
+
 
 ## 💬 Let's Connect!  
 I'm always open to learning and exchanging ideas. Feel free to reach out!  
