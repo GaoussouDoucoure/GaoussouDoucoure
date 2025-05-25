@@ -33,4 +33,7 @@ I'm always open to learning and exchanging ideas. Feel free to reach out!
 - 📧 **Email:** [gdouc4@gmail.com](mailto:gdouc4@gmail.com)  
 - 💼 **LinkedIn:** [Gaoussou Doucoure](https://www.linkedin.com/in/gaoussou-doucoure/)  
 
+## 📄 Resume
+[View My Resume](#)
+
 ---
