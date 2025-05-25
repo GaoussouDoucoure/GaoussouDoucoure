@@ -17,10 +17,13 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 
 ## 📌 Featured Projects  
 Check out some of my key repositories:  
-- **[AccountingLedgerApp](#)** – A project focused on financial tracking and reporting.  
 
+### 🔹 Personal Projects  
+- **[AccountingLedgerApp](#)** – A Java CLI application I built to manage financial tracking and reporting.  
 
-
+### 🔹 Team Projects  
+- **[Project Name](#)** – A collaborative development effort focused on [brief description].  
+- **[Another Team Project](#)** – Worked alongside a team to build [brief description].  
 
 ## 💬 Let's Connect!  
 I'm always open to learning and exchanging ideas. Feel free to reach out!  
