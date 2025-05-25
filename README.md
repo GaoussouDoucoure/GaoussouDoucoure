@@ -26,7 +26,10 @@ Check out some of my key repositories:
 - **[JWD Eatery](https://github.com/SR-roy/JWD-Eatery)** – Collaborated with a team to develop a website for JWD Eatery, a restaurant, using HTML and CSS to create an engaging and user-friendly interface.
 
 ## 💬 Let's Connect!  
-I'm always open to learning and exchanging ideas. Feel free to reach out!  
+I'm always open to learning and exchanging ideas. Feel free to reach out! 
+[![Email](https://img.shields.io/badge/EMAIL-blue?style=flat-square&logo=gmail)](mailto:gdouc4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gaoussou-doucoure/)
+
 - 📧 **Email:** [gdouc4@gmail.com](mailto:gdouc4@gmail.com)  
 - 💼 **LinkedIn:** [Gaoussou Doucoure](https://www.linkedin.com/in/gaoussou-doucoure/)  
 
