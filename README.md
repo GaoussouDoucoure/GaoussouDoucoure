@@ -22,7 +22,7 @@ Check out some of my key repositories:
 - **[AccountingLedgerApp](https://github.com/GaoussouDoucoure/AccountingLedgerApp)** – A Java CLI application I built to manage financial tracking and reporting.
 
 ### 🔹 Team Projects  
-- **[Get Stuff Done App](https://github.com/cristianboise/get-stuff-done-app)** – Collaborated with a team to develop a productivity application that helps users organize and complete tasks efficiently. The project is now complete.  
+- **[Get Stuff Done App](https://github.com/cristianboise/get-stuff-done-app)** – Collaborated with a team to develop a productivity application that helps users organize and complete tasks efficiently.
 - **[Another Team Project](#)** – Worked alongside a team to build [brief description].  
 
 ## 💬 Let's Connect!  
