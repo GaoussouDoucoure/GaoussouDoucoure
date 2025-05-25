@@ -10,8 +10,9 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ## 🛠 Technologies & Tools  
 ### My expertise and interests include:  
 - **Languages:** Java, Python, HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React, Spring Boot  
-- **Tools:** Git, VS Code, IntelliJ, Jupyter Notebook  
+- **Frameworks & Libraries:**   **Bootstrap**
+- **Tools:** Git, VS Code, IntelliJ, Jupyter Notebook
+- **Data & Visualization:** **Tableau, Power BI, Excel**
 - **Database:** MySQL  
 
 ## 📌 Featured Projects  
