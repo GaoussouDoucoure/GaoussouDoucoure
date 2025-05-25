@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 Check out some of my key repositories:  
 
 ### 🔹 Personal Projects  
-- **[AccountingLedgerApp](#)** – A Java CLI application I built to manage financial tracking and reporting.  
+- **[AccountingLedgerApp](https://github.com/GaoussouDoucoure/AccountingLedgerApp)** – A Java CLI application I built to manage financial tracking and reporting.
 
 ### 🔹 Team Projects  
 - **[Project Name](#)** – A collaborative development effort focused on [brief description].  
