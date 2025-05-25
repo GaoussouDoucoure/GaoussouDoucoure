@@ -23,7 +23,7 @@ Check out some of my key repositories:
 
 ### 🔹 Team Projects  
 - **[Get Stuff Done App](https://github.com/cristianboise/get-stuff-done-app)** – Collaborated with a team to develop a productivity application that helps users organize and complete tasks efficiently.
-- **[Another Team Project](#)** – Worked alongside a team to build [brief description].  
+- **[JWD Eatery](https://github.com/SR-roy/JWD-Eatery)** – Collaborated with a team to develop a website for JWD Eatery, a restaurant, using HTML and CSS to create an engaging and user-friendly interface.
 
 ## 💬 Let's Connect!  
 I'm always open to learning and exchanging ideas. Feel free to reach out!  
