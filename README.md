@@ -34,6 +34,6 @@ I'm always open to learning and exchanging ideas. Feel free to reach out!
 - 💼 **LinkedIn:** [Gaoussou Doucoure](https://www.linkedin.com/in/gaoussou-doucoure/)  
 
 ## 📄 Resume
-[View My Resume](#)
+[View My Resume](https://drive.google.com/file/d/1yf26G221ntMlbqsGVaS8QcRKhKhuhyTN/view?usp=sharing)
 
 ---
