@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 Check out some of my key repositories:  
 
 ### 🔹 Personal Projects  
+- **[DeliSandwichShop](https://github.com/GaoussouDoucoure/DeliSandwichApp)** – A Java CLI project focused on building an intuitive sandwich ordering system.
 - **[AccountingLedgerApp](https://github.com/GaoussouDoucoure/AccountingLedgerApp)** – A Java CLI application I built to manage financial tracking and reporting.
 
 ### 🔹 Team Projects  
