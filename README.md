@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm passionate about technology, problem-solving, and continuous learning. Here, you'll find projects that highlight my journey in software development, coding experiments, and innovative solutions.
 
 ## 🚀 About Me  
-- 💻 **Aspiring Software Developer** passionate about building meaningful applications.  
+- 💻 **QA Engineer Intern at Microsoft and Emerging Fullstack Software Developer** passionate about building meaningful applications.  
 - 📚 **Always learning** and improving technical and soft skills.  
 - 🔍 **Curious problem-solver** eager to tackle new challenges.  
 - ✨ **Open to collaboration**, feedback, and new opportunities.  
