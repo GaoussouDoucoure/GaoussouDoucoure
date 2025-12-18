@@ -32,7 +32,7 @@ I'm always open to learning and exchanging ideas. Feel free to reach out!
 [![Email](https://img.shields.io/badge/EMAIL-blue?style=flat-square&logo=gmail)](mailto:gdouc4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gaoussou-doucoure/)
 
-- 📧 **Email:** [gdouc4@gmail.com](mailto:gdouc4@gmail.com)  
+- 📧 **Email:** [gaousd4@gmail.com](mailto:gdouc4@gmail.com)  
 - 💼 **LinkedIn:** [Gaoussou Doucoure](https://www.linkedin.com/in/gaoussou-doucoure/)  
 
 ## 📄 Resume
