@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gaoussou Doucoure!  
+# 👋 Hi, I'm [Gaoussou Doucoure](https://gaoussoudoucoure.github.io/portfolio/)
 Welcome to my GitHub profile! I'm passionate about technology, problem-solving, and continuous learning. Here, you'll find projects that highlight my journey in software development, coding experiments, and innovative solutions.
 
 ## 🚀 About Me  
